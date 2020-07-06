@@ -1,2 +1,3 @@
 # machine-learning
-Machine learning project
+worked on RegularSeasonCompactResults.csv dataset using pandas library to visualize this dataset
+
